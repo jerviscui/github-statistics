@@ -41,7 +41,7 @@ Feature requests are also warmly welcomed.
 
 # Development
 
-1. `git clone` and `npm -i` to set up the enviroment.
+1. `git clone` and `npm i` to set up the enviroment.
 
 2. set `YOUR_GITHUB_API_TOKEN` in the [.env](./.env) file.
 
